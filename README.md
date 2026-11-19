@@ -54,6 +54,10 @@ lib/
 
 ## Capturas de tela
 
-_Adicione aqui as capturas das telas (Veículo, Abastecimentos, Novo abastecimento e Dashboard)._
+| Veículo cadastrado | Novo abastecimento | Lista de abastecimentos |
+|:---:|:---:|:---:|
+| <img src="screenshots/veiculo.png" width="220" alt="Veículo cadastrado"> | <img src="screenshots/abastecimento.png" width="220" alt="Novo abastecimento"> | <img src="screenshots/lista.png" width="220" alt="Lista de abastecimentos"> |
 
-<!-- ![Veículo](screenshots/veiculo.png) -->
+| Dashboard (resumo e valores) | Dashboard (km/L e R$/km) | Confirmação de exclusão |
+|:---:|:---:|:---:|
+| <img src="screenshots/dashboard1.png" width="220" alt="Dashboard 1"> | <img src="screenshots/dashboard2.png" width="220" alt="Dashboard 2"> | <img src="screenshots/exclusao.png" width="220" alt="Exclusão do veículo"> |
